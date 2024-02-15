@@ -14,7 +14,7 @@ body {
     width: 555px;
     padding: 40px;
     border-radius: 100px;
-    color: white;
+    color: black;
 }
 
 h1 {
@@ -30,20 +30,21 @@ label {
 
 input {
     width: 100%;
-    padding: 12px; 
+    padding: 12px;
     margin-bottom: 15px;
-    border: 1px solid #4caf50; 
-    border-radius: 4px;
-    color: white; 
+    border: 3px solid #A9CBFF;
+    border-radius: 9px;
+    color: black;
 }
 
 button {
-    width: 100%;
+    display: flex;
+    width: 20%;
+    justify-content: center;
     padding: 12px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
+    color: black;
+    border: 3px solid #A9CBFF;
+    border-radius: 9px;
     cursor: pointer;
 }
 
@@ -57,7 +58,7 @@ p {
 }
 
 a {
-    color: #4CAF50;
+    color: #A9CBFF;
     text-decoration: none;
 }
 
