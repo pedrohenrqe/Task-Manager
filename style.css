@@ -14,7 +14,6 @@ body {
 
 .container {
     border-radius: 100px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 40px;
     width: 555px;
     color: black;
@@ -39,18 +38,18 @@ input {
     width: 100%;
     padding: 12px;
     margin-bottom: 15px;
-    border: 3px solid black;
+    border: 3px solid #A9CBFF;
     border-radius: 9px;
     color: black;
 }
 
 button {
     display: flex;
-    width: 50%;
+    width: 20%;
     justify-content: center;
     padding: 12px;
     color: black;
-    border: 3px solid black;
+    border: 3px solid #A9CBFF;
     border-radius: 9px;
     cursor: pointer;
 }
